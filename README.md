@@ -12,11 +12,15 @@ US Citizen · Los Angeles, CA
 
 ### What I Work On
 
-**Computer Vision & Geospatial ML** — satellite image classification, 3D scene understanding, segmentation pipelines for remote sensing
+**Computer Vision & Geospatial ML** — satellite image classification, 3D scene understanding, object detection/segmentation, region adjacency graphs, remote sensing pipelines, point cloud processing
 
-**Medical Imaging** — chest X-ray report generation with saliency-guided attention, oncological diagnostics
+**Deep Learning & NLP** — vision-language models, medical report generation, attention mechanisms, saliency-guided gating, Transformers, RNNs/LSTMs, self-supervised learning (SimCLR, CLIP)
 
-**Data Science & Engineering** — traffic/weather time-series analysis, PySpark pipelines, Tableau dashboards
+**Medical Imaging** — chest X-ray report generation, oncological diagnostics, CheXNet, saliency-based spatial attention
+
+**Data Science & Engineering** — time-series analysis, geospatial data pipelines, PySpark ETL, regression modeling, anomaly detection, Tableau dashboards, SQL
+
+**MLOps & Cloud** — AWS (MLA-C01 in progress), GCP, SageMaker, model deployment, HPC/SLURM cluster workflows
 
 ---
 
