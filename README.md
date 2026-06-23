@@ -20,7 +20,7 @@ US Citizen · Los Angeles, CA
 
 **Data Science & Engineering** — time-series analysis, geospatial data pipelines, PySpark ETL, regression modeling, anomaly detection, Tableau dashboards, SQL
 
-**MLOps & Cloud** — AWS (MLA-C01 in progress), GCP, SageMaker, model deployment, HPC/SLURM cluster workflows
+**MLOps & Cloud** —  HPC/SLURM cluster workflows
 
 ---
 
